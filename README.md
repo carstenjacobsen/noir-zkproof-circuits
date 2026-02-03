@@ -1,3 +1,3 @@
-# Noir Frontend ZK Proofs
+# Noir ZK Proof Circuits
 
 (placeholder)
